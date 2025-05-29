@@ -1,0 +1,1 @@
+/Users/nfqlocal/AndroidStudioProjects/nfc_reader_flutter/build/app/intermediates/cxx/Debug/294g496a/obj/armeabi-v7a

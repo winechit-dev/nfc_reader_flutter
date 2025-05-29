@@ -1,0 +1,2 @@
+/Users/nfqlocal/AndroidStudioProjects/nfc_reader_flutter/android/app/.cxx/Debug/294g496a/x86/CMakeFiles/edit_cache.dir
+/Users/nfqlocal/AndroidStudioProjects/nfc_reader_flutter/android/app/.cxx/Debug/294g496a/x86/CMakeFiles/rebuild_cache.dir
